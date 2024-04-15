@@ -5,6 +5,24 @@
 
                 "boardName": "Uttar Pradesh State Board",
                 "stateName": "Uttar Pradesh",
+                "declaredStatus": false,
+                "resources":[
+                    {
+                        "first":"a.com",
+                        "second":"b.bom",
+                        "third":"c.com"
+                    }
+                ]
+            }
+        },
+
+
+        {
+            "FirstBoard":{
+
+                "boardName": "Madhya Pradesh State Board",
+                "stateName": "Madhya Pradesh",
+                "declaredStatus": true,
                 "resources":[
                     {
                         "first":"a.com",
