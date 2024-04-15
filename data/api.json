@@ -23,11 +23,24 @@
                 "boardName": "Madhya Pradesh State Board",
                 "stateName": "Madhya Pradesh",
                 "declaredStatus": true,
-                "resources":[
+                "firstResources":[
                     {
-                        "first":"a.com",
-                        "second":"b.bom",
+                        "first":"a.com"
+                    },{
+                        "second":"b.bom"
+                    },
+                    {
                         "third":"c.com"
+                    }
+                ],
+                "secondResources":[
+                    {
+                        "first":"x.com"
+                    },{
+                        "second":"y.bom"
+                    },
+                    {
+                        "third":"z.com"
                     }
                 ]
             }
