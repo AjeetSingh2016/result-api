@@ -1,7 +1,18 @@
 {
-    "data":[
+    "boardsList":[
         {
-            "title": "Ajeet Singh"
+            "FirstBoard":{
+
+                "boardName": "Uttar Pradesh State Board",
+                "stateName": "Uttar Pradesh",
+                "resources":[
+                    {
+                        "first":"a.com",
+                        "second":"b.bom",
+                        "third":"c.com"
+                    }
+                ]
+            }
         }
     ]
 }
