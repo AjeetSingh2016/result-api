@@ -8,22 +8,22 @@
                 "declaredStatus": false,
                 "firstResources":[
                     {
-                        "first":"a.com"
+                        "site":"a.com"
                     },{
-                        "second":"b.bom"
+                        "site":"b.bom"
                     },
                     {
-                        "third":"c.com"
+                        "site":"c.com"
                     }
                 ],
                 "secondResources":[
                     {
-                        "first":"x.com"
+                        "site":"x.com"
                     },{
-                        "second":"y.bom"
+                        "site":"y.bom"
                     },
                     {
-                        "third":"z.com"
+                        "site":"z.com"
                     }
                 ]
             }
@@ -38,22 +38,22 @@
                 "declaredStatus": true,
                 "firstResources":[
                     {
-                        "first":"a.com"
+                        "site":"a.com"
                     },{
-                        "second":"b.bom"
+                        "site":"b.bom"
                     },
                     {
-                        "third":"c.com"
+                        "site":"c.com"
                     }
                 ],
                 "secondResources":[
                     {
-                        "first":"x.com"
+                        "site":"x.com"
                     },{
-                        "second":"y.bom"
+                        "site":"y.bom"
                     },
                     {
-                        "third":"z.com"
+                        "site":"z.com"
                     }
                 ]
             }
