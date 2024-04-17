@@ -25,7 +25,8 @@
                     {
                         "site":"z.com"
                     }
-                ]
+                ],
+                "resultScreenStatus": false
             }
         },
 
@@ -38,24 +39,25 @@
                 "declaredStatus": true,
                 "firstResources":[
                     {
-                        "site":"a.com"
+                        "site":"https://youtu.be/y9mRTos12Sw?si=x9HF5KrvmpeyxTMk"
                     },{
-                        "site":"b.bom"
+                        "site":"https://youtu.be/y9mRTos12Sw?si=x9HF5KrvmpeyxTMk"
                     },
                     {
-                        "site":"c.com"
+                        "site":"https://youtu.be/y9mRTos12Sw?si=x9HF5KrvmpeyxTMk"
                     }
                 ],
                 "secondResources":[
                     {
-                        "site":"x.com"
+                        "site":"https://youtu.be/y9mRTos12Sw?si=x9HF5KrvmpeyxTMk"
                     },{
-                        "site":"y.bom"
+                        "site":"https://youtu.be/y9mRTos12Sw?si=x9HF5KrvmpeyxTMk"
                     },
                     {
-                        "site":"z.com"
+                        "site":"https://youtu.be/y9mRTos12Sw?si=x9HF5KrvmpeyxTMk"
                     }
-                ]
+                ],
+                "resultScreenStatus": false
             }
         }
     ]
